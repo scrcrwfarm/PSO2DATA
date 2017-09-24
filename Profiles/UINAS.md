@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td>名前</td><td>ユイナス</td><td rowspan=8>![ユイナス](./Images/UINAS_Profile.jpg)</td>
+    <td>名前</td><td>ユイナス</td><td rowspan=8> ![ユイナス](./Images/UINAS_Profile.jpg) </td>
   </tr>
   <tr>
     <td>種族</td><td>マシナリー</td>
